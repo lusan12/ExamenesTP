@@ -1,0 +1,9 @@
+**EXAMEN 1***----TECNICAS DE PROGRAMACION----:)
+Dame el primer numero ENTERO
+100
+Dame el segundo numero ENTERO
+10
+La suma es = 110
+La division es = 10
+
+
